@@ -14,7 +14,12 @@ public class Laweaprint {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        System.out.println("wena oe que sucede");
+        int a =23;
+        int b =50;
+        int c = a+b;
+        System.out.println("la suma de los numero "+ a +" y "+ b + " es " + c);
     }
     
 }
